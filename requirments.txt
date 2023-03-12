@@ -1,0 +1,3 @@
+python -m pip install cmake
+pip install face-recognition
+pip install opencv-python
